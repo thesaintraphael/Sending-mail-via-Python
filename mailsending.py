@@ -18,11 +18,10 @@ receiver = 'receiver@gmal.com'
 message = '''\
 Subject: Testing process of sending mails via Python
 
-Hi Rafael. I sent that message by using Python module smtp.
+Hi. I sent that message by using Python module smtp.
 That is just test mail, so you do not have to reply this message here.
-Just inform me on WhatsApp, if you get message.
 
-From Rafael Salimov.
+From Sender.
 
 Thank you!
 
